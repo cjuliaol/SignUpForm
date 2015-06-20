@@ -12,5 +12,7 @@
     <string name="password_hint">Please enter your password</string>
     <string name="confirm">Confirm</string>
     <string name="confirm_hint">Please confirm your password</string>
+    <string name="vcs_test">VCS under control</string>
+
 
 </resources>
